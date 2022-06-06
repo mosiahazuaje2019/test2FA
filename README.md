@@ -24,7 +24,7 @@ $ php artisan db:seed --class="RoleSeeder"
 $ php artisan db:seed --class="PermissionSeeder"
 $ php artisan db:seed --class="PermissionRoleSeeder"
 
-Debe configurar en el .env su conexion a una base de datos y tambien configurar un correo para realizar pruebas y para que el sistema de notificaciones pueda enviar de manera correcta los emails
+# Recuerde que debe configurar en el .env su conexion a una base de datos y tambien configurar un correo para realizar pruebas y para que el sistema de notificaciones pueda enviar de manera correcta los emails
 
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.mailtrap.io
