@@ -2,7 +2,7 @@
 
 Descarga del repo
 ```shell
-$ git clone https://github.com/qirolab/laravel-fortify-example.git
+$ https://github.com/mosiahazuaje2019/test2FA
 ```
 
 Instala las dependencias de Laravel.
