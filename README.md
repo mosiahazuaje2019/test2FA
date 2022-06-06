@@ -1,4 +1,4 @@
-## How To Use This?
+## Pasos para su utilizacion
 
 Descarga del repo
 ```shell
